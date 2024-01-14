@@ -9,6 +9,7 @@ To install gho on your local machine, follow these steps:
 - Copy the application to your local machine.
 - Make your script executable by adding the execute permission:  `chmod +X install_gho.sh` 
 - Execute the "install_gho.sh" script to ensure that the application is added to your system's PATH.
+- Lastly, restart your terminal or run 'source ~/.bashrc' to apply the changes.
 
 ### Usage
 
