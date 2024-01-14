@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Set the script path
-SCRIPT_PATH="/home/warren-oliver/code/gho/wgh.py"
-NEW_SCRIPT_NAME="wgh"
+SCRIPT_PATH="/home/warren-oliver/code/gho/gho.py"
+NEW_SCRIPT_NAME="gho"
 
 # Create a bin directory in the user's home directory if it doesn't exist
 mkdir -p "$HOME/bin"
