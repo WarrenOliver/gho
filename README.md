@@ -1,5 +1,6 @@
 # Git Repository Opener (gho)
-Overview
+
+## Overview
 
 Git Repository Opener (gho) is a straightforward application designed to streamline the process of opening your current Git repository on GitHub through your default web browser.
 
